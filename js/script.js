@@ -1,5 +1,5 @@
 var a = 1;
-var b = 2;
+var b = 8;
 var c = a + b;
 
 document.write(" "); 
